@@ -6,7 +6,7 @@ const connectDB=async()=>
 {
     try
     {
-        const conn=await mongoose.connect("mongodb+srv://HACKATHON_1:HACKATHON_1@cluster0.t0kal7m.mongodb.net/HACKATHON")
+        const conn=await mongoose.connect("mongodb database connection link")
         console.log(`connected to Mongodb Database ${conn.connection.host}`)
     }
     catch(err){
