@@ -41,8 +41,3 @@ We welcome contributions from the community to improve CampuzCons. If you'd like
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or support, please contact TheGrooveCode team at [email@example.com](mailto:email@example.com).
-
